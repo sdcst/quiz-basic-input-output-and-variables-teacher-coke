@@ -2,5 +2,5 @@
 """
 Debug this program so that it runs
 """
-1x = 4
-print(1x)
+xVariable = 4
+print(f"{xVariable}")

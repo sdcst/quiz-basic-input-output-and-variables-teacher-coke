@@ -3,5 +3,5 @@
 Debug this program so that it runs
 """
 
-    2 = x
-print(x)
+x = 2
+print(f"{x}")

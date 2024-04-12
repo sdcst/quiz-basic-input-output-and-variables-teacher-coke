@@ -2,5 +2,5 @@
 """
 Debug this program so that it runs
 """
-xVariable = 4
-print(XVariable)
+x = 4
+print(f"{x}")
